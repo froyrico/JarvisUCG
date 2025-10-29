@@ -1,0 +1,13 @@
+# --- Core LiveKit stack ---
+livekit-agents==1.2.15
+livekit-plugins-openai==1.2.15
+livekit-plugins-silero==1.2.15
+livekit-plugins-google==1.2.15
+livekit-plugins-noise-cancellation==0.2.5
+
+# --- Opcionales / Utilitarios ---
+mem0ai==1.0.0
+duckduckgo-search==8.1.1
+langchain-community==0.4
+requests>=2.31.0
+python-dotenv>=1.0.1
